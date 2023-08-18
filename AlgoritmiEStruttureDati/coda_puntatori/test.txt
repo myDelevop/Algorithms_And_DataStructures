@@ -1,0 +1,10 @@
+Inserimento valore 1
+Inserimento valore 3
+Inserimento valore 6
+Elemento in coda: 1
+Fuoricoda
+Elemento in coda: 3
+Fuoricoda
+Elemento in coda: 6
+Fuoricoda
+Coda Vuota 0=No 1=Si : 1

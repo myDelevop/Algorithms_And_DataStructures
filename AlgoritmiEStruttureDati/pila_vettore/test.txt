@@ -1,0 +1,10 @@
+Inserimento valore 1
+Inserimento valore 3
+Inserimento valore 6
+Elemento in Testa: 6
+FuoriPila
+Elemento in Testa: 3
+FuoriPila
+Elemento in Testa: 1
+FuoriPila
+Pila Vuota 0=No 1=Si : 1

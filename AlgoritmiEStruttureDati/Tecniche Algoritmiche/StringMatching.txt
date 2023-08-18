@@ -1,0 +1,33 @@
+* * * Algoritmo di Morris, Pratt, Knuth * * *
+
+Inserire la stringa principale (testo). 
+La stringa deve essere composta di 1 e di 0
+Per terminare inserire un valore negativo
+1
+1
+0
+1
+1
+1
+0
+1 
+1
+0
+0
+1
+-1
+
+Inserire la stringa da ricercare (pattern).
+La stringa deve essere composta di 1 e di 0
+Per terminare inserire un valore negativo
+1
+1
+0
+1
+1
+0
+-1
+
+La stringa inserita e' stata trovata nella striga principale 
+ a partire dalla posizione 5
+

@@ -1,0 +1,18 @@
+A insieme vuoto
+A:{ 6; 2; 9; 8; 4; 10; 11; 14; 5; 3; 13; 12; 7; 1; }
+il 5 appartiene ad A
+5 cancellato  ad A
+A:{ 6; 2; 9; 8; 4; 10; 11; 14; 3; 13; 12; 7; 1; }
+il 5 non appartiene  ad A
+il 9 appartiene  ad A
+il 1 appartiene  ad A
+A insieme con elementi
+B:{ 19; 18; 17; 16; 15; 14; 13; 12; 11; }
+U insieme vuoto
+U = A Unione B
+U insieme con elementi
+U:{ 15; 16; 17; 18; 19; 1; 7; 12; 13; 3; 14; 11; 10; 4; 8; 9; 2; 6; }
+I = A interzezione B
+I:{ 12; 13; 14; 11; }
+I = A - B
+D:{ 1; 7; 3; 10; 4; 8; 9; 2; 6; }

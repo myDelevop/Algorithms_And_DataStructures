@@ -1,0 +1,26 @@
+Lista Vuota? 1=Si 0=No :  1
+Inserimento del 4 in posizione 1
+Lista Vuota? 1=Si 0=No :  0
+Inserimento del 2 in posizione successiva al 4
+Inserimento del 20 in posizione successiva al 2
+Inserimento del 12 tra il 2 e 20
+Inserimento del 7 in testa
+Stampa:
+Posizione: 1 Elemento: 7
+Posizione: 2 Elemento: 4
+Posizione: 3 Elemento: 2
+Posizione: 4 Elemento: 12
+Posizione: 5 Elemento: 20
+Sostituzione con l'8 in terza posizione
+Stampa:
+Posizione: 1 Elemento: 7
+Posizione: 2 Elemento: 4
+Posizione: 3 Elemento: 8
+Posizione: 4 Elemento: 12
+Posizione: 5 Elemento: 20
+Cancellazione del numero in seconda posizione
+Stampa:
+Posizione: 1 Elemento: 7
+Posizione: 2 Elemento: 8
+Posizione: 3 Elemento: 12
+Posizione: 4 Elemento: 20

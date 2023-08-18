@@ -1,0 +1,28 @@
+Inserimento della lettera A con priorità 9
+Minimo attuale	Priorità: 9	Etichetta: A
+Inserimento della lettera C con priorità 4
+Minimo attuale	Priorità: 4	Etichetta: C
+Inserimento della lettera S con priorità 7
+Minimo attuale	Priorità: 4	Etichetta: C
+Inserimento della lettera T con priorità 5
+Minimo attuale	Priorità: 4	Etichetta: C
+Inserimento della lettera G con priorità 2
+Minimo attuale	Priorità: 2	Etichetta: G
+Inserimento della lettera L con priorità 3
+Minimo attuale	Priorità: 2	Etichetta: G
+Inserimento della lettera F con priorità 8
+Minimo attuale	Priorità: 2	Etichetta: G
+Minimo eliminato
+Minimo attuale	Priorità: 3	Etichetta: L
+Minimo eliminato
+Minimo attuale	Priorità: 4	Etichetta: C
+Minimo eliminato
+Minimo attuale	Priorità: 5	Etichetta: T
+Minimo eliminato
+Minimo attuale	Priorità: 7	Etichetta: S
+Minimo eliminato
+Minimo attuale	Priorità: 8	Etichetta: F
+Minimo eliminato
+Minimo attuale	Priorità: 9	Etichetta: A
+Minimo eliminato
+Errore Coda con Priorita' vuota

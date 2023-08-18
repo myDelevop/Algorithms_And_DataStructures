@@ -1,0 +1,57 @@
+Inserimento del nodo 1 con etichetta A
+Inserimento del nodo 2 con etichetta B
+Inserimento del nodo 3 con etichetta C
+Inserimento del nodo 4 con etichetta D
+Inserimento del nodo 5 con etichetta E
+Inserimento del nodo 6 con etichetta F
+Inserimento del nodo 7 con etichetta G
+Inserimento del nodo 8 con etichetta H
+Inserimento dell'arco 1->2
+Inserimento dell'arco 1->3
+Inserimento dell'arco 2->6
+Inserimento dell'arco 2->4
+Inserimento dell'arco 4->3
+Inserimento dell'arco 3->8
+Inserimento dell'arco 3->5
+Inserimento dell'arco 5->4
+Inserimento dell'arco 5->7
+Inserimento dell'arco 6->7
+Visita in Profondita' (DFS = DEPTH-FIRST-SEARCH): Partenza nodo 1
+Visita in Profondita' (DFS = DEPTH-FIRST-SEARCH) :
+Nodo: 1  Etichetta: A
+Nodo: 2  Etichetta: B
+Nodo: 4  Etichetta: D
+Nodo: 3  Etichetta: C
+Nodo: 5  Etichetta: E
+Nodo: 7  Etichetta: G
+Nodo: 8  Etichetta: H
+Nodo: 6  Etichetta: F
+Visita in Ampiezza (BFS = BREADTH-FIRST-SEARCH): Partenza nodo 1
+Visita in Ampiezza (BFS = BREADTH-FIRST-SEARCH) :
+Nodo: 1  Etichetta: A
+Nodo: 2  Etichetta: B
+Nodo: 3  Etichetta: C
+Nodo: 4  Etichetta: D
+Nodo: 6  Etichetta: F
+Nodo: 5  Etichetta: E
+Nodo: 8  Etichetta: H
+Nodo: 7  Etichetta: G
+Eliminiamo il nodo 6 con relativa cancellazione degli archi
+Eliminiamo l'arco 2->4
+Modifichiamo l'etichetta del nodo 8 in Z
+Lista Nodi:
+Nodo: 1 	Etichetta: A
+Nodo: 2 	Etichetta: B
+Nodo: 3 	Etichetta: C
+Nodo: 4 	Etichetta: D
+Nodo: 5 	Etichetta: E
+Nodo: 7 	Etichetta: G
+Nodo: 8 	Etichetta: Z
+Lista Archi:
+Arco: 1->2	Peso: 1
+Arco: 1->3	Peso: 1
+Arco: 3->5	Peso: 1
+Arco: 3->8	Peso: 1
+Arco: 4->3	Peso: 1
+Arco: 5->4	Peso: 1
+Arco: 5->7	Peso: 1

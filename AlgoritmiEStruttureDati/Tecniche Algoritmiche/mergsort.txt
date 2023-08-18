@@ -1,0 +1,27 @@
+ * * * Algoritmo del merge sort * * *
+
+Inserimento del vettore di interi positivi da ordinare
+(Per terminare inserire un intero negativo)
+12
+1
+19
+20
+21
+8
+12
+15
+7
+10
+13
+11
+-1
+
+
+Il vettore inserito e'
+
+12      1       19      20      21      8       12      15      7       10     13       11
+
+Il vettore ordinato e'
+
+1       7       8       10      11      12      12      13      15      19     20       21
+

@@ -1,0 +1,37 @@
+Inserimento di elementi: {4,5,6,8,8,9,16}
+dizionario[11]: {0|0|0|0|4|0|0|0|0|0|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|0|0|0|0|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|6|0|0|0|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|6|0|8|0|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|6|0|8|0|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|6|0|8|9|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+dizionario[11]: {0|0|0|0|4|5|6|16|8|9|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+Ecco gli elementi inseriti:
+ora elimino il 4
+dizionario[11]: {0|0|0|0|0|5|6|16|8|9|0}
+     stato[11]: {0|0|0|0|1|0|0|0|0|0|0}
+vediamo se 26 appartiene al dizionario..
+No
+vediamo se inseriamo 26 al dizionario..
+dizionario[11]: {0|0|0|0|26|5|6|16|8|9|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+26 appartiene al dizionario
+vediamo se togliamo 26 dal dizionario..
+dizionario[11]: {0|0|0|0|0|5|6|16|8|9|0}
+     stato[11]: {0|0|0|0|1|0|0|0|0|0|0}
+26 NON appartiene al dizionario
+vediamo se inserisco 4 al dizionario..
+dizionario[11]: {0|0|0|0|4|5|6|16|8|9|0}
+     stato[11]: {0|0|0|0|0|0|0|0|0|0|0}
+4 appartiene al dizionario
+ora elimino 16..
+dizionario[11]: {0|0|0|0|4|5|6|0|8|9|0}
+     stato[11]: {0|0|0|0|0|0|0|1|0|0|0}
+16 NON appartiene al dizionario

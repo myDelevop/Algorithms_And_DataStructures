@@ -1,0 +1,17 @@
+Inserimento Radice: 2
+Inserimento dei figli di 2 (FiglioSx:3 FiglioDx:5)
+Inserimento dei figli di 3 (FiglioSx:7 FiglioDx:8)
+Inserimento dei figli di 5 (FiglioSx:9)
+Inserimento dei figli di 9 (FiglioSx:4 FiglioDx:20)
+Inserimento dei figli di 4 (FiglioDx:1)
+
+Previsita: [2, 3, 7, 8, 5, 9, 4, 1, 20, ]
+Postvisita: [7, 8, 3, 1, 4, 20, 9, 5, 2, ]
+Invisita: [7, 3, 8, 2, 4, 1, 9, 20, 5, ]
+Visita in Ampiezza: [2, 3, 5, 7, 8, 9, 4, 20, 1, ]
+
+Altezza dell'albero: 4
+Numero nodi dell'albero: 9
+Ricerca del tiponodo 4 nell'albero e memorizzazzione
+Profondita del nodo memorizzato 4: 3
+Altezza del nodo memorizzato 4: 1
